@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.arclud.android.deeplink",
+    "package_name": "com.course",
     "sha256_cert_fingerprints":
-    ["C4:B4:9C:48:44:BA:E0:94:4A:F1:55:C9:7C:0B:35:E6:26:0B:50:02:AE:24:0D:9F:64:EE:A3:86:24:2A:7B:D1"]
+    ["56:1B:6B:BC:CF:02:33:D1:F5:1F:07:28:65:F2:31:69:92:41:72:74:C1:E7:68:C0:C7:47:BA:95:86:47:DF:C8"]
   }
 }]
